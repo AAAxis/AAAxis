@@ -50,10 +50,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAAxis&theme=default" alt="GitHub profile summary" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AAAxis&theme=default" alt="Top languages by repo" width="49%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAAxis&theme=default" alt="Top languages by commit" width="49%"/>
 </p>
