@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Dmitry Polskoy 👋</h1>
+<h1 align="center">Hey, I'm AAAxis 👋</h1>
 
 <p align="center">
   <b>Full Stack Engineer</b> • Next.js · React Native · Swift · TypeScript
