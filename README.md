@@ -50,10 +50,18 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAAxis&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAAxis&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAAxis&theme=default" alt="GitHub profile summary" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="mailto:polskoydm@gmail.com"><img src="https://img.shields.io/badge/Email-polskoydm%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AAAxis&theme=default" alt="Top languages by repo" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAAxis&theme=default" alt="Top languages by commit" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/AAAxis" alt="Contribution graph" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="mailto:dima@holylabs.net"><img src="https://img.shields.io/badge/Email-dima%40holylabs.net-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
